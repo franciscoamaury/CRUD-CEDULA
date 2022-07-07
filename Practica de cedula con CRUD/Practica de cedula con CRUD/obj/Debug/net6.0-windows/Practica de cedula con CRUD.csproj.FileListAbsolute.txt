@@ -1,0 +1,21 @@
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\bin\Debug\net6.0-windows\Practica de cedula con CRUD.exe
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\bin\Debug\net6.0-windows\Practica de cedula con CRUD.deps.json
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\bin\Debug\net6.0-windows\Practica de cedula con CRUD.runtimeconfig.json
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\bin\Debug\net6.0-windows\Practica de cedula con CRUD.dll
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\bin\Debug\net6.0-windows\Practica de cedula con CRUD.pdb
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\obj\Debug\net6.0-windows\Practica de cedula con CRUD.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\obj\Debug\net6.0-windows\Practica_de_cedula_con_CRUD.Form1.resources
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\obj\Debug\net6.0-windows\Practica_de_cedula_con_CRUD.Formularios.RegistroForm.resources
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\obj\Debug\net6.0-windows\Practica_de_cedula_con_CRUD.Properties.Resources.resources
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\obj\Debug\net6.0-windows\Practica de cedula con CRUD.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\obj\Debug\net6.0-windows\Practica de cedula con CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\obj\Debug\net6.0-windows\Practica de cedula con CRUD.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\obj\Debug\net6.0-windows\Practica de cedula con CRUD.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\obj\Debug\net6.0-windows\Practica de cedula con CRUD.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\obj\Debug\net6.0-windows\Practica de cedula con CRUD.dll
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\obj\Debug\net6.0-windows\refint\Practica de cedula con CRUD.dll
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\obj\Debug\net6.0-windows\Practica de cedula con CRUD.pdb
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\obj\Debug\net6.0-windows\Practica de cedula con CRUD.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\obj\Debug\net6.0-windows\ref\Practica de cedula con CRUD.dll
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\franc\OneDrive\Desktop\App de CRUD\Practica de cedula con CRUD\Practica de cedula con CRUD\obj\Debug\net6.0-windows\Practica de cedula con CRUD.csproj.CopyComplete

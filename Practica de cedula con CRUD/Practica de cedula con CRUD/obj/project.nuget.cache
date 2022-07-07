@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ayCMPftGCwj0vsPQ3TP/VzwRH7d6n8XzJ38O+54LBG3OUTM7zZXSfOWHLgCNTwHAOFMnRDx/up7Qt5V2AM9FTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\franc\\OneDrive\\Desktop\\App de CRUD\\Practica de cedula con CRUD\\Practica de cedula con CRUD\\Practica de cedula con CRUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
